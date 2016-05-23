@@ -16,7 +16,7 @@ gulp.task('develop', function () {
 });
 
 gulp.task('watch-ts', function () {
-    return gulp.watch(['src/**/*.ts'], ['compile-ts']);
+	return gulp.watch(['src/**/*.ts'], ['compile-ts']);
 });
 
 gulp.task('compile-ts', function () {

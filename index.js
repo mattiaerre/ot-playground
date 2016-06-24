@@ -17,7 +17,7 @@ server.route({
     handler: function (request, reply) {
         var person = new Core.Person('mattia', 'richetto');
         console.log(person.fullName);
-        
+
         var html = fs.readFileSync('./index.html').toString();
         html = html.replace('{model.now}', moment().format('HH:mm:ss DD/MM/YYYY'));
         reply(html);

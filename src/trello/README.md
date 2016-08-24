@@ -10,8 +10,6 @@ Product Backlog refinement with Trello API and Node.js
 
 [@mattiaerre](https://twitter.com/mattiaerre)
 
-[@JonFlowers](https://twitter.com/jonflowers)
-
 #### The context
 
 - The OMG Team's [Trello board](https://trello.com/b/BrRqwm8E/omg-global-offers-and-international-growth) has got few columns but of course the **Backlog** one is full of cards ...

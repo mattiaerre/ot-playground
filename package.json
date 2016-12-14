@@ -28,7 +28,10 @@
     "typescript": "^1.8.10"
   },
   "devDependencies": {
+    "browserify": "^13.1.1",
     "chai": "^3.5.0",
+    "eslint": "^3.5.0",
+    "eslint-config-opentable": "^6.0.0",
     "gulp-tsc": "^1.1.5",
     "mocha": "^3.0.2",
     "sinon": "^1.17.4"
